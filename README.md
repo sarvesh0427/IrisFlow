@@ -25,11 +25,13 @@ This project covers:
 │   ├── `iris_unsupervised.py` *(Unsupervised ML - Clustering)*  
 │   ├── `iris_ai_pytorch.py` *(Neural Network with PyTorch)*  
 │  
-│── 📁 **deployment/** *(Streamlit Web App)*  
-│   ├── `app.py` *(Main Streamlit deployment script)*  
+│── 📁 **deployment/** *(Streamlit Web App Deployment)*  
+│   ├── `deployment.py` *(Main Streamlit deployment script)*  
+│   ├── `train_model.py` *(Script for training and saving the model)*  
 │  
 │── `README.md` *(Project Documentation - You are here!)*  
 │── `requirements.txt` *(Dependencies & Installations)*  
-│── `.gitignore` *(Files to ignore in GitHub repo)*  
+
+ 
 
 

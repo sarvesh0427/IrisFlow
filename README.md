@@ -28,9 +28,9 @@ This project covers:
 │── 📁 **deployment/** *(Streamlit Web App)*  
 │   ├── `deploymeny.py` *(Main Streamlit deployment script)* 
 │   ├── `train_model.py` *(Model Training)*
-|
+│
 │── `README.md` *(Project Documentation - You are here!)*  
 │── `requirements.txt` *(Dependencies & Installations)*  
-│── `.gitignore` *(Files to ignore in GitHub repo)*  
+ 
 
 

@@ -26,8 +26,8 @@ This project covers:
 │   ├── `iris_ai_pytorch.py` *(Neural Network with PyTorch)*  
 │  
 │── 📁 **deployment/** *(Streamlit Web App)*  
-│   ├── `app.py` *(Main Streamlit deployment script)*  
-│  
+│   ├── `deploymeny.py` *(Main Streamlit deployment script)* 
+│   ├── 'train_model.py' *(Model Training)*
 │── `README.md` *(Project Documentation - You are here!)*  
 │── `requirements.txt` *(Dependencies & Installations)*  
 │── `.gitignore` *(Files to ignore in GitHub repo)*  

@@ -21,9 +21,9 @@ This project covers:
 │   ├── `iris.csv` *(Dataset file, if used locally)*  
 │  
 │── 📁 **notebooks/** *(ML & AI Scripts)*  
-│   ├── `iris_supervised.py` *(Supervised ML - Classification)*  
-│   ├── `iris_unsupervised.py` *(Unsupervised ML - Clustering)*  
-│   ├── `iris_ai_pytorch.py` *(Neural Network with PyTorch)*  
+│   ├── `iris_supervised.ipynb` *(Supervised ML - Classification)*  
+│   ├── `iris_unsupervised.ipynb` *(Unsupervised ML - Clustering)*  
+│   ├── `iris_ai_pytorch.ipynb` *(Neural Network with PyTorch)*  
 │  
 │── 📁 **deployment/** *(Streamlit Web App Deployment)*  
 │   ├── `deployment.py` *(Main Streamlit deployment script)*  
